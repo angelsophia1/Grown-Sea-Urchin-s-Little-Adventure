@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="english" ID="0">
+  <!-- Main Menu -->
+  <text key="PLAY">NEW GAME</text>
+  <text key="LANGUAGES">LANGUAGES</text>
+  <text key="QUIT">QUIT</text>
+  <text key="ENGLISH">ENGLISH</text>
+  <text key="CHINESE">CHINESE</text>
+  <text key="BACK">BACK</text>
+  <text key="RESUME">RESUME</text>
+  <text key="MENU">MENU</text>
+  <text key="GAMEOVER">GAME OVER !!!</text>
+  <text key="RESTART">RESTART</text>
+  <text key="LOAD">LOAD</text>
+  <text key="SAVE">SAVE</text>
+  <text key="SAVE GUIDE">Please select a file...</text>
+  <text key="FILE1">FILE1</text>
+  <text key="FILE2">FILE2</text>
+  <text key="MAP">MAP</text>
+  <text key="ELDER ONE:">ELDER ONE:</text>
+  <text key="CONTENT11">Hi, young one, today is your Big Day---Grown-Up Day.</text>
+  <text key="CONTENT12">As a tradition of our kind, you must accept three Trials in order to show the world that you're worthy of the name.</text>
+  <text key="CONTENT13">So here begins your first trial--- Bravery Trial.</text>
+  <text key="CONTENT14">I will be waiting for you for your next trial.</text>
+  <text key="CONTENT15">Good Luck and have fun!!!</text>
+  <text key="CONTENT16">Lovely Young One =W=</text>
+  <text key="CONTENT21">Well done! Young one.</text>
+  <text key="CONTENT22">You have incredibly completed the Bravery Test.</text>
+  <text key="CONTENT23">As a reward, you will be granted a new ability --- "Attack".</text>
+  <text key="CONTENT24">Specifically, now you can shoot spines upwards to kill enemies.</text>
+  <text key="CONTENT25">Well, now you can go on to your second trial --- Love Trial.</text>
+  <text key="CONTENT26">Good Luck and have fun!!!</text>
+  <text key="CONTENT27">Lovely Young One =W=</text>
+  <text key="CONTINUE">CONTINUE</text>
+  <text key="RETURN">RETURN</text>
+  <text key="CONGRATULATION1">Congratulations!</text>
+  <text key="CONGRATULATION112">You have passed the first level of the Bravery Trial!</text>
+  <text key="CONGRATULATION122">You have passed the second level of the Bravery Trial!</text>
+  <text key="CONGRATULATION132">You have completed the Bravery Trial!</text>
+  <text key="CONGRATULATION212">You have passed the first level of the Love Trial!</text>
+  <text key="CONGRATULATION222">You have passed the second level of the Love Trial!</text>
+  <text key="CONGRATULATION232">You have "completed" the Love Trial!</text>
+  <text key="CONGRATULATION242">You have completed the Love Trial officially!</text>
+  <text key="CHALLENGECHANCE">Challenge Chance Left:</text>
+  <text key="CHALLENGECHANCELEFT">Challenge Chance Left:</text>
+  <text key="COINSCOLLECTED">Coins Collected:</text>
+  <text key="TRIALFAILURE">Unfortunately, you have failed the Trial. Please start over!</text>
+  <text key="STARTOVER">START OVER</text>
+  <text key="EXPLANATIONCOIN">10 Coins = 1 Challenge Chance (Automatically)</text>
+  <text key="EXPLANATIONTRIAL">0 challenge chance will end the game.</text>
+  <text key="INTERACTIONTEXT">Press E to use this button</text>
+  <text key="INTERACTIONCONTROLLERTEXT">Press Y Button to use this button</text>
+  <text key="ATTENTION">ATTENTION!</text>
+  <text key="INTROCONTENT1">This level is time-limited!</text>
+  <text key="INTROCONTENT2">Please clear it in 1 minutes!</text>
+  <text key="INTROCONTENTSTART">START!</text>
+  <text key="TRIALOVERTEXT1">Sorry, your challenge chance is used up.</text>
+  <text key="TRIALOVERTEXT2">Please start over!</text>
+  <text key="INITIALINTROTEXT1">Trial rule:</text>
+  <text key="INITIALINTROTEXT2">At the beginning, you are given 3 challenge chances.</text>
+  <text key="INITIALINTROTEXT3">Each time you challenge a level will cost you one challenge chance.</text>
+  <text key="INITIALINTROTEXT4">You can collect coins to gain challenge chances while challenging each level.</text>
+  <text key="INITIALINTROTEXT5">10 coins will be automatically transfered into 1 challenge chance.</text>
+  <text key="MOVEINTRO1">Press Left or Right Arrow Key to move</text>
+  <text key="MOVEINTROCONTROLLER1">Use Left Sticker to move</text>
+  <text key="MOVEINTRO2">Press Spacebar to jump</text>
+  <text key="MOVEINTROCONTROLLER2">Press A Button to jump</text>
+  <text key="MOVEINTRO3">Press Down Arrow Key to view further down</text>
+  <text key="MOVEINTROCONTROLLER3">Use Right Sticker (down) to view further down</text>
+  <text key="MOVEINTRO4">Press Up Arrow Key to view further up</text>
+  <text key="MOVEINTROCONTROLLER4">Use Right Sticker (up) to view further up</text>
+  <text key="MOVEINTRO5">Press Ctrl Key to attack</text>
+  <text key="MOVEINTROCONTROLLER5">Press X Button to attack</text>
+  <text key="EMPTY"> </text>
+</Language>

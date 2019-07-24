@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="chinese" ID="1">
+  <!-- Main Menu -->
+  <text key="PLAY">新的开始</text>
+  <text key="LANGUAGES">语言</text>
+  <text key="QUIT">退出</text>
+  <text key="ENGLISH">英语</text>
+  <text key="CHINESE">中文</text>
+  <text key="BACK">返回</text>
+  <text key="RESUME">继续</text>
+  <text key="MENU">主菜单</text>
+  <text key="GAMEOVER">游戏结束 ！！！</text>
+  <text key="RESTART">重新开始</text>
+  <text key="LOAD">加载</text>
+  <text key="SAVE">保存</text>
+  <text key="SAVE GUIDE">请选择一个存档...</text>
+  <text key="FILE1">档案一</text>
+  <text key="FILE2">档案二</text>
+  <text key="MAP">地图</text>
+  <text key="ELDER ONE:">长老：</text>
+  <text key="CONTENT11">你好丫，我们的年轻海胆，今天是你一生中的重要日子——成年之日。</text>
+  <text key="CONTENT12">根据我们一族长久以来的习俗，你必须接受三项试炼来向世界证明你是一个名副其实的成年海胆。</text>
+  <text key="CONTENT13">现在将要开始你的第一项试炼——勇气试炼。</text>
+  <text key="CONTENT14">我将在下一项试炼前迎接你的到来。</text>
+  <text key="CONTENT15">祝你好运和玩的愉快！！！</text>
+  <text key="CONTENT16">可爱的年轻海胆 =W=</text>
+  <text key="CONTENT21">干得好！年轻海胆。</text>
+  <text key="CONTENT22">你已经难以置信地完成了勇气试炼。</text>
+  <text key="CONTENT23">作为回报，你将会被赋予一项新的能力——“攻击”。</text>
+  <text key="CONTENT24">具体来说，现在你能向上发射尖刺来消灭敌人。</text>
+  <text key="CONTENT25">好了，你可以进入你的第二项试炼——爱之试炼。</text>
+  <text key="CONTENT26">祝你好运和玩的愉快！！！</text>
+  <text key="CONTENT27">可爱的年轻海胆 =W=</text>
+  <text key="CONTINUE">继续</text>
+  <text key="RETURN">返回</text>
+  <text key="CONGRATULATION1">恭喜你！</text>
+  <text key="CONGRATULATION112">你通过了勇气试炼的第一关！</text>
+  <text key="CONGRATULATION122">你通过了勇气试炼的第二关！</text>
+  <text key="CONGRATULATION132">你通过了勇气试炼！</text>
+  <text key="CONGRATULATION212">你通过了爱之试炼的第一关！</text>
+  <text key="CONGRATULATION222">你通过了爱之试炼的第二关！</text>
+  <text key="CONGRATULATION232">你“通过了”爱之试炼！</text>
+  <text key="CONGRATULATION242">现在你正式通过了爱之试炼！</text>
+  <text key="CHALLENGECHANCE">               剩余挑战次数：</text>
+  <text key="CHALLENGECHANCELEFT">        剩余挑战次数:</text>
+  <text key="COINSCOLLECTED">已收集到金币：</text>
+  <text key="TRIALFAILURE">很遗憾，你的试炼失败了，请重新再来！</text>
+  <text key="STARTOVER">重新开始</text>
+  <text key="EXPLANATIONCOIN">                              10金币=1次挑战次数（自动转换）</text>
+  <text key="EXPLANATIONTRIAL">挑战次数为0时，试炼失败，游戏结束。</text>
+  <text key="INTERACTIONTEXT">按下E来使用这个按钮</text>
+  <text key="INTERACTIONCONTROLLERTEXT">按下Y按钮来使用这个按钮</text>
+  <text key="ATTENTION">注意!</text>
+  <text key="INTROCONTENT1">这一关卡有时间限制！</text>
+  <text key="INTROCONTENT2">请在1分钟之内完成此关卡！</text>
+  <text key="INTROCONTENTSTART">开始！</text>
+  <text key="TRIALOVERTEXT1">非常遗憾，你已经用尽了你的挑战次数。</text>
+  <text key="TRIALOVERTEXT2">请从头再来！</text>
+  <text key="INITIALINTROTEXT1">试炼规则：</text>
+  <text key="INITIALINTROTEXT2">最开始，你被给予3次挑战次数。</text>
+  <text key="INITIALINTROTEXT3">每次你挑战一个关卡，会消耗掉一次挑战次数。</text>
+  <text key="INITIALINTROTEXT4">在挑战每个关卡时，你可以通过收集金币来增加挑战次数。</text>
+  <text key="INITIALINTROTEXT5">每收集满10个金币将会自动转换成一次挑战次数。</text>
+  <text key="MOVEINTRO1">按左右方向键移动</text>
+  <text key="MOVEINTROCONTROLLER1">使用左摇杆来移动</text>
+  <text key="MOVEINTRO2">按空格键跳跃</text>
+  <text key="MOVEINTROCONTROLLER2">按A按钮跳跃</text>
+  <text key="MOVEINTRO3">按向下方向键向下看</text>
+  <text key="MOVEINTROCONTROLLER3">使用（向下）右摇杆向下看</text>
+  <text key="MOVEINTRO4">按向上方向键向上看</text>
+  <text key="MOVEINTROCONTROLLER4">使用（向上）右摇杆向上看</text>
+  <text key="MOVEINTRO5">按Ctrl键攻击</text>
+  <text key="MOVEINTROCONTROLLER5">按X按钮跳跃</text>
+  <text key="EMPTY"> </text>
+</Language>
